@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>page</title>
-    <link href="/2022/02/23/page/"/>
-    <url>/2022/02/23/page/</url>
+    <title>Use GitHub Pages + Hexo to build my blog</title>
+    <link href="/2022/02/26/githubpage/"/>
+    <url>/2022/02/26/githubpage/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="Content"><a href="#Content" class="headerlink" title="Content"></a>Content</h1><blockquote><p>感謝我的啟蒙老師-簡老師，帶我學了很多新東西</p></blockquote><h2 id="Github-page"><a href="#Github-page" class="headerlink" title="Github page"></a>Github page</h2><h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><h3 id="Theme"><a href="#Theme" class="headerlink" title="Theme"></a>Theme</h3><h3 id="Comment"><a href="#Comment" class="headerlink" title="Comment"></a>Comment</h3><h1 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h1><p>reference</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>Hexo, Github</tag>
+      
+    </tags>
     
   </entry>
   
@@ -18,10 +24,10 @@
   
   <entry>
     <title>我的Blog出道啦！</title>
-    <link href="/2022/02/23/First-article/"/>
-    <url>/2022/02/23/First-article/</url>
+    <link href="/2022/02/23/debut/"/>
+    <url>/2022/02/23/debut/</url>
     
-    <content type="html"><![CDATA[<h2 id="Content"><a href="#Content" class="headerlink" title="Content"></a>Content</h2><p>大概是大三的時候，聽說很多人都是用自己的網站來記錄學習、專案、作品等等，找工作的時候就可以一並附上去，透過blog還可以大略了解此人的個性，所以我就一直想做一個自己的blog來著的。但天真的我又覺得：反正我自己知道我會做什麼就好了，了解我的人也都會知道我是怎麼樣的人，所以一直懶得開始。</p><p>就這麼剛好，今天在上課上到一半，我的碩士班摯友跟突然秀給我看她的部落格，我真是太佩服了，於是立馬叫她教我。然後就「砰！」我的blog就這麼橫空出世了！</p><p>感覺有些東西真的要記錄下來比較好，就算是自己做的project，時間久了還是會忘記自己做了什麼。而且如果可以把自己的東西美美的秀給別人看感覺還挺加分的呢！</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="Content"><a href="#Content" class="headerlink" title="Content"></a>Content</h1><p>大概是大三的時候，聽說很多人都是用自己的網站來記錄學習、專案、作品等等，找工作的時候就可以一並附上去，透過blog還可以大略了解此人的個性，所以我就一直想做一個自己的blog來著的。但天真的我又覺得：反正我自己知道我會做什麼就好了，了解我的人也都會知道我是怎麼樣的人，所以一直懶得開始。</p><p>就這麼剛好，今天在上課上到一半，我的碩士班同學跟突然秀給我看她的部落格，我實在是太佩服了，於是立馬叫她教我。然後就「砰！」我的blog就這麼橫空出世了！</p><p>感覺有些東西真的要記錄下來比較好，就算是自己做的project，時間久了還是會忘記自己做了什麼。而且如果可以把自己的東西美美的秀給別人看感覺還挺加分的呢！</p>]]></content>
     
     
     
